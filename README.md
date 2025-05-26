@@ -19,6 +19,7 @@ Changed file date and time retrieval from OS last time modified to .DTA internal
 - Updated 4 compatibility with new Quincy
 - Improved temperature determination
 - Added pre-fitting dataset exclusion
+- Added jigglefit to prevent trapping in local minima
 - Improved Nyquist previews
 - Improved truncation functionality
 - Outlier testing and exclusion added
