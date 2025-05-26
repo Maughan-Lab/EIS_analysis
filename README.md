@@ -13,3 +13,15 @@ Added an extract_number function to extract the EISPOT_#.DTA # and sort .DTA fil
 Jupyter notebook updated 12/10/2024
 Changes:
 Changed file date and time retrieval from OS last time modified to .DTA internal timestamp, which is written at the first data point collected. This adjusts all times in files forward the duration of the EIS run.
+
+Major Update 5/26/2025--> The Beneficence of Austin
+Changes:
+Updated EIS code compatible with new Quincy.
+
+Improved temperature determination
+Added pre-fitting dataset exclusion
+Improved Nyquist previews
+Improved truncation functionality
+Outlier testing and exclusion added
+Improved commenting
+Refactored all code and defined functions where appropriate
