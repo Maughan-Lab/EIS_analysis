@@ -26,7 +26,7 @@ Changed file date and time retrieval from OS last time modified to .DTA internal
 - Improved commenting
 - Refactored all code and defined functions where appropriate
 
-##PyEIS added 6/2/2025
+## PyEIS added 6/2/2025
 -Credit to Kristian Knudsen https://doi.org/10.5281/zenodo.2532067
 -Plotting function issue present in official distribution fixed in the version here
 -No additional circuits in this version
