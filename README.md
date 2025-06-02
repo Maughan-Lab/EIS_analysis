@@ -30,3 +30,7 @@ Changed file date and time retrieval from OS last time modified to .DTA internal
 - Credit to Kristian Knudsen https://doi.org/10.5281/zenodo.2532067
 - Plotting function issue present in official distribution fixed in the version here
 - No additional circuits in this version
+
+## Shelby's PyEIS added 6/2/2025
+- Still credit to Kristian Knudsen https://doi.org/10.5281/zenodo.2532067
+- R-RQ-RQ-Q equivalent circuit added
