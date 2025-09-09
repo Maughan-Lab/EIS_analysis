@@ -8611,10 +8611,10 @@ class EIS_exp:
             self.fit_n3 = []
             for i in range(len(self.df)):
                 if "'fs'" in str(self.Fit[i].params.keys()) and "'fs2'" in str(
-                    self.Fit[i].params.keys()) and "'fs3'" in str(self.Fit[i].params.key()
+                    self.Fit[i].params.keys()) and "'fs3'" in str(self.Fit[i].params.keys()
                 ):
                     self.circuit_fit.append(
-                        cir_RsRQRQ(
+                        cir_RsRQRQRQ(
                             w=self.df[i].w,
                             Rs=self.Fit[i].params.get("Rs").value,
                             R=self.Fit[i].params.get("R").value,
